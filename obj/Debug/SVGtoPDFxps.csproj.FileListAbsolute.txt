@@ -1,0 +1,10 @@
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\bin\Debug\SVGtoPDFxps.exe.config
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\bin\Debug\SVGtoPDFxps.exe
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\bin\Debug\SVGtoPDFxps.pdb
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\bin\Debug\Aspose.SVG.dll
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\bin\Debug\Aspose.SVG.xml
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\obj\Debug\SVGtoPDFxps.csprojAssemblyReference.cache
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\obj\Debug\SVGtoPDFxps.csproj.CoreCompileInputs.cache
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\obj\Debug\SVGtoPDFxps.csproj.CopyComplete
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\obj\Debug\SVGtoPDFxps.exe
+D:\Aspose\Examples\BlogProjects\SVGtoPDFxps\obj\Debug\SVGtoPDFxps.pdb
